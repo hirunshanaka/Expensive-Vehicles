@@ -1,0 +1,20 @@
+a{text-decoration:none;}
+
+.web{width:1000px;
+margin:0 auto;}
+
+
+nav{background-color:#4f4e4c;
+text-align:center;
+margin-top:10px;
+margin-bottom:10px;
+margin-left:10px; margin-right:10px;}
+
+nav ul{ List-style:none;}
+nav ul li{display:inline;}
+nav ul li a{color:#ffffff;
+padding:5px 50px 5px 50px;
+display:inline-block;
+font-size:25px;}
+
+nav ul li a:hover{color:yellow;}
